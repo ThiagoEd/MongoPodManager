@@ -44,12 +44,6 @@ O menu interativo será exibido, permitindo selecionar a opção desejada.
 9. **Reparar Podman**
 10. **Sair**
 
-## Exemplo de Uso
-Para criar um novo container MongoDB:
-```powershell
-   2
-```
-Se um container já existir, será solicitado se deseja removê-lo e recriar.
 
 ## Backup e Restauração
 - O backup deve estar na pasta `~/backup` dentro do WSL.
